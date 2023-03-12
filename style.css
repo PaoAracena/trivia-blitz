@@ -62,11 +62,17 @@ ul, li {
     padding: 6px;
     transition: transform .15s;
 }
-/* 
+
 .green {
     background-color: #0b0;
 }
 
 .red {
     background-color: #e23;
-} */
+}
+ul :hover {
+    background-color: rgb(194, 194, 174);
+  }
+  /* ul, li :hover {
+    background-color: aqua;
+    } */
